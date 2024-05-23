@@ -29,7 +29,7 @@ DESCRIPTION = """
 GO BACK TO MAIN PAGE! 
 """
 
-link_url = "https://www.gehu.ac.in/"
+link_url = "https://cramer-rule-calculator.streamlit.app/"
 
 # Add a hyperlink to the text and apply color formatting
 description_with_link = f"<font color='black'><a href='{link_url}' target='_blank'>{DESCRIPTION}</a></font>"
