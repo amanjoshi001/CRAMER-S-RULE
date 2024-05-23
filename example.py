@@ -80,7 +80,7 @@ st.write('\n')
 DESCRIPTION = """
     LEARN HOW TO SOLVE THE CRAMER'S RULE FOR LINEAR EQUATION. CLICK ON IT!
 """
-link_url = "https://www.gehu.ac.in/"
+link_url = "https://instruction-page.streamlit.app/"
 
 # Add a hyperlink to the text and apply color formatting
 description_with_link = f"<a style='color:white' href='{link_url}' target='_blank'>{DESCRIPTION}</a>"
